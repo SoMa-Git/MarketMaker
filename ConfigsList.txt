@@ -1,0 +1,3 @@
+products list
+products characteristics
+quoting dynamic params
