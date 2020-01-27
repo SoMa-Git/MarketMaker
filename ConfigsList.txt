@@ -3,4 +3,4 @@ products characteristics
 quoting dynamic params
 tempo params
 display dev
-gui params
+Server connection params
